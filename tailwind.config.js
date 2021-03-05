@@ -22,6 +22,8 @@ module.exports = {
       },
       fontFamily: {
         sans: ['Inter', ...defaultTheme.fontFamily.sans],
+        serif: ['Baloo'],
+        text: ['Lato'],
       },
       colors: {
         blue: colors.lightBlue,

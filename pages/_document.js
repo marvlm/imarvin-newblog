@@ -74,6 +74,14 @@ class MyDocument extends Document {
             integrity="sha384-yFRtMMDnQtDRO8rLpMIKrtPCD5jdktao2TV19YiZYWMDkUR5GQZR/NOVTdquEx1j"
             crossOrigin="anonymous"
           />
+          <link
+            href="https://fonts.googleapis.com/css?family=Baloo+Bhai&display=swap"
+            rel="stylesheet"
+          ></link>
+          <link
+            href="https://fonts.googleapis.com/css2?family=Lato&display=swap"
+            rel="stylesheet"
+          ></link>
         </Head>
         <body className="antialiased text-black bg-white dark:bg-gray-900 dark:text-white">
           <Main />

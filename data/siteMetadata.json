@@ -1,8 +1,8 @@
 {
-  "title": "Next.js Starter Blog",
-  "author": "Tails Azimuth",
-  "headerTitle": "TailwindBlog",
-  "description": "A blog created with Next.js and Tailwind.css",
+  "title": "The Branch Blog",
+  "author": "Marvin Lopez",
+  "headerTitle": "Blog",
+  "description": "Un blog sobre agilidad, scrum, desarrollo de software, equipos, tecnología e innovación.",
   "language": "en-us",
   "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
   "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
