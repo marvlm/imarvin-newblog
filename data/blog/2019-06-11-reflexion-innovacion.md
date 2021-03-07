@@ -5,7 +5,10 @@ date: '2019-06-11'
 date_updated: '2020-05-29'
 tags: ['Innovación']
 summary: 'La innovación es un tema que hoy podemos desayunar, almorzar y cenar, pero creo que a veces lo vemos como algo muy lejano a nosotros mismos cuando en realidad es algo que está a nuestro alcance, siempre y cuando sea nuestro deseo alcanzarlo.'
+image: 'https://images.unsplash.com/photo-1528367953285-54904aa03d3f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ'
 ---
+
+![reflexion-innovacion-banner](https://images.unsplash.com/photo-1528367953285-54904aa03d3f?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
 **¿Por qué es necesario innovar?**
 

@@ -6,7 +6,10 @@ date_updated: '2020-05-29'
 tags: ['Coaching', 'Equipo', 'Productividad']
 draft: false
 summary: 'Existen 2 actividades a considerar si queremos llegar a ser más productivos(as) empezar a completar y dejar de iniciar, e identificar nuestras prioridades.'
+image: 'https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ'
 ---
+
+![ser-productivo-banner](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
 Últimamente he estado analizando situaciones en donde podemos ser más productivos, en el trabajo y personalmente, y he llegado a la conclusión de que hay 2 actividades importantes que debemos considerar si queremos llegar a ser más productiv@s:
 

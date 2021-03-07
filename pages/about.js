@@ -12,8 +12,8 @@ export default function About() {
       />
       <div className="divide-y">
         <div className="pt-6 pb-8 space-y-2 md:space-y-5">
-          <h1 className="text-3xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
-            About
+          <h1 className="text-3xl font-serif font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-4xl sm:leading-10 md:text-6xl md:leading-14">
+            ¡Hola! soy Marvin López
           </h1>
         </div>
         <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
@@ -35,19 +35,24 @@ export default function About() {
           </div>
           <div className="pt-8 pb-8 prose dark:prose-dark max-w-none xl:col-span-2">
             <p>
-              Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His
-              research interests includes complexity modelling of tailwinds, headwinds and
-              crosswinds.
+              Un panameño residente en España, esposo de Carol, papá de dos beagles, hijo, hermano,
+              tío, padrino, Ingeniero de Software, Scrum Master, Facilitador Ágil, Agile Mentor,
+              Team Lead, Desarrollador web, blogger, nadador (no activo), fan del ProWrestling, de
+              ver películas y series, de la tecnología y de aprender nuevas maneras de hacer las
+              cosas, además, y como pueden ver en mi blog, un practicante entusiasta de la agilidad.
             </p>
             <p>
-              He leads the clean energy group which develops 3D air pollution-climate models, writes
-              differential equation solvers, and manufactures titanium plated air ballons. In his
-              free time he bakes raspberry pi.
+              Ayudo a organizaciones a construir productos de software de calidad siguiendo las
+              mejores prácticas que apliquen en su propio contexto y que beneficien su propio
+              proceso de transformación.
             </p>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique
-              placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem
-              nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+              Desde los inicios de mi carrera hasta el día de hoy he podido ejercer casi todos los
+              roles involucrados en un equipo y proceso de desarrollo de software, desde el proceso
+              de análisis e inception, pasando por el diseño, desarrollo, control de calidad,
+              implantación, liderazgo, reclutamiento, formación y soporte al cliente. Además durante
+              los últimos años he enfocado mi carrera en ayudar a equipos y organizaciones en su
+              transformación ágil en los roles de Scrum Master, Trainer y Agile Coach.
             </p>
           </div>
         </div>

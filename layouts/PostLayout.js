@@ -53,7 +53,7 @@ export default function PostLayout({ children, frontMatter, next, prev }) {
                       <dd>
                         <Link
                           href={siteMetdata.twitter}
-                          className="text-blue-500 hover:text-blue-600 dark:hover:text-blue-400"
+                          className="text-blue-600 hover:text-blue-600 dark:hover:text-blue-400"
                         >
                           {siteMetdata.twitter.replace('https://twitter.com/', '@')}
                         </Link>
