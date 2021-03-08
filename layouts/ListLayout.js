@@ -46,7 +46,7 @@ export default function ListLayout({ posts, title }) {
         <ul>
           {!filteredBlogPosts.length && 'No posts found.'}
           {filteredBlogPosts.map((frontMatter) => {
-            const { slug, date, title, summary, tags } = frontMatter
+            const { slug, date, title, summary, tags, image } = frontMatter
             return (
               <li key={slug} className="py-4">
                 <article className="space-y-2 xl:grid xl:grid-cols-4 xl:space-y-0 xl:items-baseline">
@@ -56,6 +56,11 @@ export default function ListLayout({ posts, title }) {
                       <time dateTime={date}>
                         {new Date(date).toLocaleDateString(siteMetdata.locale, postDateTemplate)}
                       </time>
+                      <img
+                        className="object-scale-down lg:w-11/12 md:object-contain"
+                        src={image}
+                        alt={title}
+                      ></img>
                     </dd>
                   </dl>
                   <div className="space-y-3 xl:col-span-3">

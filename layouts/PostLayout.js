@@ -94,7 +94,7 @@ export default function PostLayout({ children, frontMatter, next, prev }) {
                     {prev && (
                       <div>
                         <h2 className="text-xs tracking-wide text-gray-500 uppercase dark:text-gray-400">
-                          Previous Article
+                          Artículo anterior
                         </h2>
                         <div className="text-blue-500 hover:text-blue-600 dark:hover:text-blue-400">
                           <Link href={`/blog/${prev.slug}`}>{prev.title}</Link>
@@ -119,7 +119,7 @@ export default function PostLayout({ children, frontMatter, next, prev }) {
                   href="/blog"
                   className="text-blue-500 hover:text-blue-600 dark:hover:text-blue-400"
                 >
-                  &larr; Back to the blog
+                  &larr; Todos los artículos
                 </Link>
               </div>
             </footer>

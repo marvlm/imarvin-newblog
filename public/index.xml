@@ -5,8 +5,8 @@
       <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
       <description>Un blog sobre agilidad, scrum, desarrollo de software, equipos, tecnología e innovación.</description>
       <language>en-us</language>
-      <managingEditor>address@yoursite.com (Marvin Lopez)</managingEditor>
-      <webMaster>address@yoursite.com (Marvin Lopez)</webMaster>
+      <managingEditor>marvin@thebranch.work (Marvin López)</managingEditor>
+      <webMaster>marvin@thebranch.work (Marvin López)</webMaster>
       <lastBuildDate>Tue, 11 Jun 2019 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
       
@@ -16,7 +16,7 @@
     <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/2019-06-11-reflexion-innovacion</link>
     <description>La innovación es un tema que hoy podemos desayunar, almorzar y cenar, pero creo que a veces lo vemos como algo muy lejano a nosotros mismos cuando en realidad es algo que está a nuestro alcance, siempre y cuando sea nuestro deseo alcanzarlo.</description>
     <pubDate>Tue, 11 Jun 2019 00:00:00 GMT</pubDate>
-    <author>address@yoursite.com (Marvin Lopez)</author>
+    <author>marvin@thebranch.work (Marvin López)</author>
     <category>Innovación</category>
   </item>
 
@@ -26,7 +26,7 @@
     <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/2019-05-29-ser-productivo</link>
     <description>Existen 2 actividades a considerar si queremos llegar a ser más productivos(as) empezar a completar y dejar de iniciar, e identificar nuestras prioridades.</description>
     <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
-    <author>address@yoursite.com (Marvin Lopez)</author>
+    <author>marvin@thebranch.work (Marvin López)</author>
     <category>Coaching</category><category>Equipo</category><category>Productividad</category>
   </item>
 
@@ -36,7 +36,7 @@
     <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/2019-04-04-agilidad-cartas</link>
     <description>Dinámica basada en el el juego de las monedas para explicar agilidad a través de un proceso iterativo sencillo de aplicar.</description>
     <pubDate>Thu, 04 Apr 2019 00:00:00 GMT</pubDate>
-    <author>address@yoursite.com (Marvin Lopez)</author>
+    <author>marvin@thebranch.work (Marvin López)</author>
     <category>Agile</category><category>Equipo</category><category>Dinámica</category>
   </item>
 

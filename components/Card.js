@@ -24,7 +24,7 @@ const Card = ({ title, description, imgSrc, href }) => (
         />
       )}
       <div className="p-6">
-        <h2 className="text-2xl font-bold leading-8 tracking-tight mb-3">
+        <h2 className="text-2xl font-serif font-bold leading-8 tracking-tight mb-3">
           {href ? (
             <Link href={href} aria-label={`Link to ${title}`}>
               {title}
@@ -40,7 +40,7 @@ const Card = ({ title, description, imgSrc, href }) => (
             className="text-base font-medium leading-6 text-blue-500 hover:text-blue-600 dark:hover:text-blue-400"
             aria-label={`Link to ${title}`}
           >
-            Learn more &rarr;
+            Quiero saber más &rarr;
           </Link>
         )}
       </div>
