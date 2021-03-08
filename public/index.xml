@@ -7,9 +7,79 @@
       <language>en-us</language>
       <managingEditor>marvin@thebranch.work (Marvin López)</managingEditor>
       <webMaster>marvin@thebranch.work (Marvin López)</webMaster>
-      <lastBuildDate>Fri, 12 Jun 2020 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Fri, 19 Jun 2020 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.imarv.in//index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-19-principios-matrimonio-agil</guid>
+    <title>Principios de un matrimonio ágil</title>
+    <link>https://www.imarv.in//blog/2020-06-19-principios-matrimonio-agil</link>
+    <description>Los principios del Matrimonio Ágil nos ayudan a aplicar lo que hemos aceptado en la declaración y a vivir y llevar en nuestro ADN lo que se necesita para ser un Matrimonio Ágil.</description>
+    <pubDate>Fri, 19 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Matrimonios Ágiles</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-18-agilidad-agnostica</guid>
+    <title>Practiquemos la Agilidad Agnóstica</title>
+    <link>https://www.imarv.in//blog/2020-06-18-agilidad-agnostica</link>
+    <description>La misma talla no le queda igual a todos, de la misma forma que un solo  marco de trabajo ágil no es la respuesta - practiquemos la Agilidad Agnóstica</description>
+    <pubDate>Thu, 18 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>#tbt</category><category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-17-lecciones-vida</guid>
+    <title>Lecciones de vida</title>
+    <link>https://www.imarv.in//blog/2020-06-17-lecciones-vida</link>
+    <description>Comparto algunas lecciones de vida que he aprendido de mi esposa que me han ayudado a ser una mejor persona, esposo y a crecer profesionalmente.</description>
+    <pubDate>Wed, 17 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Personal</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-16-vuca-organizacion-positiva</guid>
+    <title>VUCA, de un contexto negativo a una organización positiva</title>
+    <link>https://www.imarv.in//blog/2020-06-16-vuca-organizacion-positiva</link>
+    <description>¿Qué emociones activamos cuando escuchamos que algo es volátil, complejo, ambiguo o que existe mucha incertidumbre, positivas o negativas?</description>
+    <pubDate>Tue, 16 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Reflexión</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-15-extreme-people</guid>
+    <title>XP: Extreme People, digo, Programming</title>
+    <link>https://www.imarv.in//blog/2020-06-15-extreme-people</link>
+    <description>XP siendo el más específico de los marcos ágiles con respecto a las prácticas de ingeniería propias del desarrollo de software, tiene un enfoque bastante marcado en las personas, aunque no sea popular por ello.</description>
+    <pubDate>Mon, 15 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-14-practicas-agiles-desarrollo-software</guid>
+    <title>Prácticas ágiles de desarrollo de software</title>
+    <link>https://www.imarv.in//blog/2020-06-14-practicas-agiles-desarrollo-software</link>
+    <description>Con el uso de herramientas open source, prácticas de desarrollo de software ágil y un poco de automatización puedes experimentar productividad y velocidad en el desarrollo.</description>
+    <pubDate>Sun, 14 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Tech</category><category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-13-facilitando-psd</guid>
+    <title>Facilitando el curso Professional Scrum Developer (PSD)</title>
+    <link>https://www.imarv.in//blog/2020-06-13-facilitando-psd</link>
+    <description>El papel del facilitador implica extraer el conocimiento e ideas del grupo, ayudándolos a que aprendan los unos de los otros, a pensar y actuar en conjunto.</description>
+    <pubDate>Sat, 13 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Experiencias</category>
+  </item>
+
   <item>
     <guid>https://www.imarv.in//blog/2020-06-12-declaracion-matrimonio-agil</guid>
     <title>Declaración del Matrimonio Ágil</title>
