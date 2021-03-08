@@ -2,7 +2,7 @@ import { NextSeo, ArticleJsonLd } from 'next-seo'
 import siteMetadata from '@/data/siteMetadata'
 
 export const SEO = {
-  title: siteMetadata.title,
+  title: siteMetadata + ' ' + siteMetadata.title,
   description: siteMetadata.description,
   openGraph: {
     type: 'website',

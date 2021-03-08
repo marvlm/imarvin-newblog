@@ -1,19 +1,269 @@
 
   <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-      <title>The Branch Blog</title>
-      <link>https://tailwind-nextjs-starter-blog.vercel.app/blog</link>
+      <title>Software Engineer y Agilista</title>
+      <link>https://www.imarv.in//blog</link>
       <description>Un blog sobre agilidad, scrum, desarrollo de software, equipos, tecnología e innovación.</description>
       <language>en-us</language>
       <managingEditor>marvin@thebranch.work (Marvin López)</managingEditor>
       <webMaster>marvin@thebranch.work (Marvin López)</webMaster>
-      <lastBuildDate>Tue, 11 Jun 2019 00:00:00 GMT</lastBuildDate>
-      <atom:link href="https://tailwind-nextjs-starter-blog.vercel.app/index.xml" rel="self" type="application/rss+xml"/>
+      <lastBuildDate>Fri, 12 Jun 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.imarv.in//index.xml" rel="self" type="application/rss+xml"/>
       
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/2019-06-11-reflexion-innovacion</guid>
+    <guid>https://www.imarv.in//blog/2020-06-12-declaracion-matrimonio-agil</guid>
+    <title>Declaración del Matrimonio Ágil</title>
+    <link>https://www.imarv.in//blog/2020-06-12-declaracion-matrimonio-agil</link>
+    <description>La Declaración del Matrimonio Ágil es al Matrimonio, lo que el manifiesto ágil del desarrollo de software es a la agilidad.</description>
+    <pubDate>Fri, 12 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Matrimonios Ágiles</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-11-perseverancia</guid>
+    <title>La victoria pertenece al más perseverante</title>
+    <link>https://www.imarv.in//blog/2020-06-11-perseverancia</link>
+    <description>El fútbol es como la vida, requiere perseverancia, abnegación, trabajo duro, dedicación y respeto por la autoridad (Vince Lombardi)</description>
+    <pubDate>Thu, 11 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>#tbt</category><category>Coaching</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-10-mentalidad-agil</guid>
+    <title>La mentalidad ágil</title>
+    <link>https://www.imarv.in//blog/2020-06-10-mentalidad-agil</link>
+    <description>Una Mentalidad ágil es una forma de pensar basada en valores, principios y mejora continua que nos permite crear y responder al cambio en entornos inciertos y turbulentos.</description>
+    <pubDate>Wed, 10 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-09-scrum-puro</guid>
+    <title>De scrum puro, agilidad pura y otras adicciones</title>
+    <link>https://www.imarv.in//blog/2020-06-09-scrum-puro</link>
+    <description>Cuando buscamos hacer un scrum puro es porque aún no conocemos el propósito verdadero de marcos de trabajo como scrum, XP ni de la agilidad en general.</description>
+    <pubDate>Tue, 09 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Scrum</category><category>Agile</category><category>Reflexión</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-08-algo-importante</guid>
+    <title>Cuando algo es "importante"</title>
+    <link>https://www.imarv.in//blog/2020-06-08-algo-importante</link>
+    <description>Reflexionemos en el concepto de "importante" pero no lo que es importante para los demás, si no para nosotros mismos y para los que nos importan.</description>
+    <pubDate>Mon, 08 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Personal</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-07-ghost-cms</guid>
+    <title>imarv.in usa Ghost CMS (not anymore)</title>
+    <link>https://www.imarv.in//blog/2020-06-07-ghost-cms</link>
+    <description>Ghost es una plataforma CMS gratuita de código abierto diseñada con una cosa en mente: publicación de contenido minimalista.</description>
+    <pubDate>Sun, 07 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Tech</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-06-experiencia-voluntario-commit</guid>
+    <title>¿Porqué ser voluntario en conferencias? Mi experiencia en Commit</title>
+    <link>https://www.imarv.in//blog/2020-06-06-experiencia-voluntario-commit</link>
+    <description>Mi experiencia como voluntario por dos años consecutivos, 2018 y 2019, en el evento de conferencias de desarrollo de software y tecnologías Commit Conf.</description>
+    <pubDate>Sat, 06 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Experiencias</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-05-matrimonios-agiles</guid>
+    <title>Matrimonios Ágiles</title>
+    <link>https://www.imarv.in//blog/2020-06-05-matrimonios-agiles</link>
+    <description>Matrimonios ágiles es una iniciativa que nace de la oportunidad de mejorar nuestro matrimonio utilizando prácticas de agilidad (Agile) entre otras buenas prácticas que son de tanto beneficio en nuestra experiencia profesional.</description>
+    <pubDate>Fri, 05 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Matrimonios Ágiles</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-04-lean-coffee-manual-matrimonio</guid>
+    <title>Lean Coffee: El Manual del Matrimonio</title>
+    <link>https://www.imarv.in//blog/2020-06-04-lean-coffee-manual-matrimonio</link>
+    <description>Cómo organizamos Carol (mi esposa) y yo un Lean Coffee para crear el Manual del Matrimonio.</description>
+    <pubDate>Thu, 04 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>#tbt</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-03-gestion-del-cambio</guid>
+    <title>Gestión del cambio</title>
+    <link>https://www.imarv.in//blog/2020-06-03-gestion-del-cambio</link>
+    <description>El secreto para sobrevivir y tener éxito en un entorno V.U.C.A. está en considerar la gestión de los cambios.</description>
+    <pubDate>Wed, 03 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category><category>#30díasdeblog</category><category>T-share</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-02-mayo-diferente</guid>
+    <title>Mayo 2020 un mes diferente</title>
+    <link>https://www.imarv.in//blog/2020-06-02-mayo-diferente</link>
+    <description>Mi mes de mayo este 2020 se resume principalmente en aprendizaje y validación de conocimiento.</description>
+    <pubDate>Tue, 02 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Reflexión</category><category>#30díasdeblog</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-01-reto-30-dias</guid>
+    <title>Reto #30díasdeblog</title>
+    <link>https://www.imarv.in//blog/2020-06-01-reto-30-dias</link>
+    <description>Reto para el mes de junio, qué consiste en escribir 1 artículo por cada día del mes, lo he denominado #30díasdeblog</description>
+    <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Personal</category><category>#30díasdeblog</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-05-28-hola-mundo</guid>
+    <title>Hola Mundo!</title>
+    <link>https://www.imarv.in//blog/2020-05-28-hola-mundo</link>
+    <description>Una tradición en el desarrollo de software, el primer programa con el que muchos empiezan su carrera y la mejor forma de decir bienvenid@ a mi Blog personal.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Personal</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-05-28-design-sprint</guid>
+    <title>De 0 a MVP con Design Sprint</title>
+    <link>https://www.imarv.in//blog/2020-05-28-design-sprint</link>
+    <description>Encontramos que la magia ocurre cuando usamos grandes pizarras para resolver problemas. La propia habitación se convierte en una especie de cerebro compartido para el equipo. - Jake Knapp.</description>
+    <pubDate>Thu, 28 May 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Producto</category><category>T-share</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-05-27-kaizen-equipos</guid>
+    <title>Kaizen y la mejora continua en tiempos de covid-19</title>
+    <link>https://www.imarv.in//blog/2020-05-27-kaizen-equipos</link>
+    <description>Cómo gestionar el kaizen (mejora continua) en equipos distribuidos.</description>
+    <pubDate>Wed, 27 May 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Mejora Continua</category><category>Equipo</category><category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-02-17-antipatrones-daily-scrum</guid>
+    <title>Antipatrones del Daily Scrum</title>
+    <link>https://www.imarv.in//blog/2020-02-17-antipatrones-daily-scrum</link>
+    <description>Daily Scrum, reunión del Development Team que les permite planificar diariamente como organizar el trabajo para cumplir sus objetivos del Sprint y para dejar al descubierto impedimentos o situaciones que están causando que no puedan cumplir dicho objetivo.</description>
+    <pubDate>Mon, 17 Feb 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Scrum</category><category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-02-04-mejorando-comunicacion</guid>
+    <title>Mejorando la comunicación en los equipos</title>
+    <link>https://www.imarv.in//blog/2020-02-04-mejorando-comunicacion</link>
+    <description>El mayor problema en la comunicación es la ilusión de que ya ha sucedido, pensar que ya nos hemos comunicado y que nos han entendido.</description>
+    <pubDate>Tue, 04 Feb 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-01-22-escalado</guid>
+    <title>¿Escalado de qué?</title>
+    <link>https://www.imarv.in//blog/2020-01-22-escalado</link>
+    <description>Vivimos en un mundo “Agile”, donde no sólo ahora todos somos Agile (aunque aún no entendamos que significa eso), sino que, además, todos queremos estar en la moda de escalar la agilidad,</description>
+    <pubDate>Wed, 22 Jan 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-01-02-hagamos-scream</guid>
+    <title>Hagamos Scream</title>
+    <link>https://www.imarv.in//blog/2020-01-02-hagamos-scream</link>
+    <description>Scream no es una metodología, es un marco de trabajo construido como una imitación de Scrum, dando a los observadores involuntarios la apariencia de que la organización podría estar usando Scrum.</description>
+    <pubDate>Thu, 02 Jan 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Scrum</category><category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2019-12-17-swarming</guid>
+    <title>Swarming, todos para uno y uno para todos!</title>
+    <link>https://www.imarv.in//blog/2019-12-17-swarming</link>
+    <description>Swarming, práctica donde todos los miembros del equipo trabajan sobre la misma tarea, actividad, problema o historia de usuario.</description>
+    <pubDate>Tue, 17 Dec 2019 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category><category>Scrum</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2019-12-03-proyecto-o-producto</guid>
+    <title>¿Proyecto o Producto? Eh ahí el dilema!</title>
+    <link>https://www.imarv.in//blog/2019-12-03-proyecto-o-producto</link>
+    <description>La gestión ágil del desarrollo muestra todo su potencial cuando hablamos de desarrollo no orientado a proyectos (#noprojects), sino a productos.</description>
+    <pubDate>Tue, 03 Dec 2019 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Producto</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2019-11-20-kanban-scrum-style</guid>
+    <title>OPPA Kanban + Scrum Style</title>
+    <link>https://www.imarv.in//blog/2019-11-20-kanban-scrum-style</link>
+    <description>Si un equipo Scrum decide utilizar Kanban dentro de Scrum, puedes seguir llamándolo Scrum.</description>
+    <pubDate>Wed, 20 Nov 2019 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Scrum</category><category>Kanban</category><category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2019-10-15-quien-escribe-historias-usuario</guid>
+    <title>¿Quién escribe las historias de usuario?</title>
+    <link>https://www.imarv.in//blog/2019-10-15-quien-escribe-historias-usuario</link>
+    <description>Existe la errónea idea de que las historias de usuario son escritas únicamente por el Product Owner, Business Analyst o incluso el Scrum Máster.</description>
+    <pubDate>Tue, 15 Oct 2019 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2019-10-06-scrum-es-cultura</guid>
+    <title>Scrum es Cultura</title>
+    <link>https://www.imarv.in//blog/2019-10-06-scrum-es-cultura</link>
+    <description>Scrum no se trata de, ni es una metodología, es un marco de trabajo que promueve un cambio cultural en las personas y las organizaciones para crear valor.</description>
+    <pubDate>Sun, 06 Oct 2019 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category><category>Scrum</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2019-09-09-scrum-masters-toolbox</guid>
+    <title>Scrum Master's Toolbox</title>
+    <link>https://www.imarv.in//blog/2019-09-09-scrum-masters-toolbox</link>
+    <description>Scrum no prescribe ninguna de estas herramientas, son herramientas que he podido aplicar en los diferentes contextos en donde he colaborado.</description>
+    <pubDate>Mon, 09 Sep 2019 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category><category>Scrum</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2019-06-11-reflexion-innovacion</guid>
     <title>Una reflexión sobre innovación</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/2019-06-11-reflexion-innovacion</link>
+    <link>https://www.imarv.in//blog/2019-06-11-reflexion-innovacion</link>
     <description>La innovación es un tema que hoy podemos desayunar, almorzar y cenar, pero creo que a veces lo vemos como algo muy lejano a nosotros mismos cuando en realidad es algo que está a nuestro alcance, siempre y cuando sea nuestro deseo alcanzarlo.</description>
     <pubDate>Tue, 11 Jun 2019 00:00:00 GMT</pubDate>
     <author>marvin@thebranch.work (Marvin López)</author>
@@ -21,9 +271,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/2019-05-29-ser-productivo</guid>
+    <guid>https://www.imarv.in//blog/2019-05-29-ser-productivo</guid>
     <title>Ser o no ser productivo, he ahí el dilema!</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/2019-05-29-ser-productivo</link>
+    <link>https://www.imarv.in//blog/2019-05-29-ser-productivo</link>
     <description>Existen 2 actividades a considerar si queremos llegar a ser más productivos(as) empezar a completar y dejar de iniciar, e identificar nuestras prioridades.</description>
     <pubDate>Wed, 29 May 2019 00:00:00 GMT</pubDate>
     <author>marvin@thebranch.work (Marvin López)</author>
@@ -31,9 +281,9 @@
   </item>
 
   <item>
-    <guid>https://tailwind-nextjs-starter-blog.vercel.app/blog/2019-04-04-agilidad-cartas</guid>
+    <guid>https://www.imarv.in//blog/2019-04-04-agilidad-cartas</guid>
     <title>Explicando agilidad con el juego de las cartas</title>
-    <link>https://tailwind-nextjs-starter-blog.vercel.app/blog/2019-04-04-agilidad-cartas</link>
+    <link>https://www.imarv.in//blog/2019-04-04-agilidad-cartas</link>
     <description>Dinámica basada en el el juego de las monedas para explicar agilidad a través de un proceso iterativo sencillo de aplicar.</description>
     <pubDate>Thu, 04 Apr 2019 00:00:00 GMT</pubDate>
     <author>marvin@thebranch.work (Marvin López)</author>

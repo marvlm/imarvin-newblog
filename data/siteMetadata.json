@@ -1,10 +1,10 @@
 {
-  "title": "imarv.in",
+  "title": "Software Engineer y Agilista",
   "author": "Marvin López",
   "headerTitle": "",
   "description": "Un blog sobre agilidad, scrum, desarrollo de software, equipos, tecnología e innovación.",
   "language": "en-us",
-  "siteUrl": "https://tailwind-nextjs-starter-blog.vercel.app",
+  "siteUrl": "https://www.imarv.in/",
   "siteRepo": "https://github.com/timlrx/tailwind-nextjs-starter-blog",
   "image": "/static/images/avatar.png",
   "socialBanner": "/static/images/twitter-card.png",
