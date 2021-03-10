@@ -7,9 +7,49 @@
       <language>en-us</language>
       <managingEditor>marvin@thebranch.work (Marvin López)</managingEditor>
       <webMaster>marvin@thebranch.work (Marvin López)</webMaster>
-      <lastBuildDate>Mon, 10 Aug 2020 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 24 Aug 2020 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.imarv.in//index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.imarv.in//blog/2020-08-24-el-poder-de-la-inteligencia-colectiva</guid>
+    <title>El poder de la Inteligencia Colectiva</title>
+    <link>https://www.imarv.in//blog/2020-08-24-el-poder-de-la-inteligencia-colectiva</link>
+    <description>Juntos podemos ser más sabios de lo que cualquiera de nosotros puede ser solo. Necesitamos saber cómo aprovechar esa sabiduría.</description>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Coaching</category><category>Agile</category><category>Agile Clinic</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-08-18-agile-clinic</guid>
+    <title>Agile Clinic: Estimado Marvin, tengo una duda sobre la agilidad...</title>
+    <link>https://www.imarv.in//blog/2020-08-18-agile-clinic</link>
+    <description>Agile Clinic es un formato frecuente en algunas conferencias sobre agilidad. Consiste en sesiones de coaching/mentoring de corta duración, ya sea individuales o en grupo, en las que un experto en Agilidad ofrece su experiencia y conocimiento para un caso particular.</description>
+    <pubDate>Tue, 18 Aug 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category><category>Coaching</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-08-14-modelo-dreyfus-de-adquisicion-de-habilidades</guid>
+    <title>Modelo Dreyfus de adquisición de habilidades</title>
+    <link>https://www.imarv.in//blog/2020-08-14-modelo-dreyfus-de-adquisicion-de-habilidades</link>
+    <description>Estamos descubriendo formas mejores de... aprender, enseñar y facilitar conocimiento.</description>
+    <pubDate>Fri, 14 Aug 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Coaching</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-08-11-lenguajes-de-programacion-mas-populares-en-2020</guid>
+    <title>Lenguajes de programación más populares en 2020</title>
+    <link>https://www.imarv.in//blog/2020-08-11-lenguajes-de-programacion-mas-populares-en-2020</link>
+    <description>Conoce los lenguajes de programación  más populares, más usados y mejor pagados en 2020 y decide qué lenguaje aprender en este año.</description>
+    <pubDate>Tue, 11 Aug 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Tech</category><category>Colaboraciones</category><category>OpenWebinars</category>
+  </item>
+
   <item>
     <guid>https://www.imarv.in//blog/2020-08-10-tipos-de-lenguajes-de-programacion</guid>
     <title>Tipos de lenguajes de programación</title>
