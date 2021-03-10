@@ -21,18 +21,11 @@ Después de la conversación llegamos a la conclusión que las organizaciones qu
 
 Es nuestro deber como Profesional de la Agilidad, ya seas Scrum Master, Agile Coach o el título que tengas, enseñarles, guiarles y mostrarles en la práctica que el objetivo es aprovechar lo beneficios que pueden ofrecer los frameworks, viéndolos como un conjunto de herramientas. Esto también lo he comentado antes en [De scrum puro, agilidad pura y otras adicciones - Día 9](/scrum-puro/) y [Practiquemos la Agilidad Agnóstica - Día 18](/agilidad-agnostica/).
 
-> **\*Disclaimer:** Hoy es la primera vez que leo sobre Flow, y no tengo ninguna experiencia ni conozco mucho sobre él ya que tampoco existe mucha literatura al respecto, por lo que mis comentarios y análisis están basados en lo que he podido leer, he analizado y entendido de ello y aclaro y reconozco desde ya, que puedo estar equivocado. \*(al final del post les comparto la lista de artículos que leí además de un video para que puedan hacerse su propio juicio).
+> **Disclaimer:** Hoy es la primera vez que leo sobre Flow, y no tengo ninguna experiencia ni conozco mucho sobre él ya que tampoco existe mucha literatura al respecto, por lo que mis comentarios y análisis están basados en lo que he podido leer, he analizado y entendido de ello y aclaro y reconozco desde ya, que puedo estar equivocado. (al final del post les comparto la lista de artículos que leí además de un video para que puedan hacerse su propio juicio).
 
 ### ¿Qué es Flow?
 
 > [Agile Transformation](https://enterpriseflow.io/)
-
-<!--//--><![CDATA[//><!--
-
-    	/*! This file is auto-generated */
-    	!function(d,l){"use strict";var e=!1,o=!1;if(l.querySelector)if(d.addEventListener)e=!0;if(d.wp=d.wp||{},!d.wp.receiveEmbedMessage)if(d.wp.receiveEmbedMessage=function(e){var t=e.data;if(t)if(t.secret||t.message||t.value)if(!/[^a-zA-Z0-9]/.test(t.secret)){var r,a,i,s,n,o=l.querySelectorAll('iframe[data-secret="'+t.secret+'"]'),c=l.querySelectorAll('blockquote[data-secret="'+t.secret+'"]');for(r=0;r<c.length;r++)c[r].style.display="none";for(r=0;r<o.length;r++)if(a=o[r],e.source===a.contentWindow){if(a.removeAttribute("style"),"height"===t.message){if(1e3<(i=parseInt(t.value,10)))i=1e3;else if(~~i<200)i=200;a.height=i}if("link"===t.message)if(s=l.createElement("a"),n=l.createElement("a"),s.href=a.getAttribute("src"),n.href=t.value,n.host===s.host)if(l.activeElement===a)d.top.location.href=t.value}}},e)d.addEventListener("message",d.wp.receiveEmbedMessage,!1),l.addEventListener("DOMContentLoaded",t,!1),d.addEventListener("load",t,!1);function t(){if(!o){o=!0;var e,t,r,a,i=-1!==navigator.appVersion.indexOf("MSIE 10"),s=!!navigator.userAgent.match(/Trident.*rv:11\./),n=l.querySelectorAll("iframe.wp-embedded-content");for(t=0;t<n.length;t++){if(!(r=n[t]).getAttribute("data-secret"))a=Math.random().toString(36).substr(2,10),r.src+="#?secret="+a,r.setAttribute("data-secret",a);if(i||s)(e=r.cloneNode(!0)).removeAttribute("security"),r.parentNode.replaceChild(e,r)}}}}(window,document);
-
-//--><!]]>
 
 Flow, un marco de trabajo ágil creado por Haydn Shaughnessy y Fin Goulding.
 
@@ -57,7 +50,7 @@ También me da la sensación de que su propuesta critica a Agile y Scrum como si
 
 Algo en lo que si estoy de acuerdo, es cuando en su discurso mencionan que _hacer Agile (como sea que se haga eso), Kanban o Scrum no es suficiente_, como lo he mencionado antes. Pienso que debemos entender los marcos de trabajo como un conjunto de herramientas de las que podemos aprovecharnos para lograr los objetivos que tenga la organización, ya sea si es una practica que proviene de XP, Scrum, Kanban, Design Thinking, etc, etc, etc,.
 
-> **_El objetivo no es la practica; tampoco lo es el framework. _**
+> **_El objetivo no es la practica; tampoco lo es el framework._**
 
 ### Conclusión
 
@@ -77,16 +70,14 @@ Te dejo una presentación que vi sobre Flow, por uno de los creadores en el DevO
 
 ### Referencias:
 
-[
-
 What is flow?
 
 Flow is a post-agile concept that puts value at the heart of the modern enterprise operating model. Though people may have talked about the importance of value, it has not been until relatively…
 
-![](https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png)Haydn ShaughnessyFlow: The Minimalist Agile Framework
+![](https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png) Haydn ShaughnessyFlow: The Minimalist Agile Framework
 
-![](https://miro.medium.com/max/854/1*qHIG7zbeFRsmbRvHWpU1OQ.png)
-](https://medium.com/flow-the-new-agile-framework/what-is-flow-da4828f87758)[
+![https://miro.medium.com/max/854/1*qHIG7zbeFRsmbRvHWpU1OQ.png]
+(https://medium.com/flow-the-new-agile-framework/what-is-flow-da4828f87758)
 
 The Minimalist Framework For Agile
 
@@ -95,7 +86,7 @@ One aspect of Flow Agile which I haven’t expanded too much on is Flow teams an
 ![](https://cdn-images-1.medium.com/fit/c/152/152/1*8I-HPL0bfoIzGied-dzOvA.png)Fin GouldingFlow: The Minimalist Agile Framework
 
 ![](https://miro.medium.com/max/1200/1*wSfv9Uc-w-_gh9w3e-cKZg.jpeg)
-](https://medium.com/flow-the-new-agile-framework/the-minimalist-framework-for-agile-7f92e6046fe1)[
+(https://medium.com/flow-the-new-agile-framework/the-minimalist-framework-for-agile-7f92e6046fe1)
 
 Getting into the FLOW: Rethinking Agile
 
@@ -131,16 +122,9 @@ Being agile is completely different from doing agile. Here’s how Flow can deli
 ![](https://techbeacon.com/android-chrome-192x192.png)Fin GouldingTechBeacon
 
 ![](https://techbeacon.com/sites/default/files/styles/social/public/field/image/go-with-flow-agile.jpg?itok=WZQHPTAG)
-](https://techbeacon.com/devops/how-take-agile-next-level)
+![](https://techbeacon.com/devops/how-take-agile-next-level)
 
 > [Flow: Taking Agile Forward &#8211; Fin Goulding](https://itrevolution.com/fin-goulding-flow-taking-agile-forward/)
-
-<!--//--><![CDATA[//><!--
-
-    	/*! This file is auto-generated */
-    	!function(d,l){"use strict";var e=!1,o=!1;if(l.querySelector)if(d.addEventListener)e=!0;if(d.wp=d.wp||{},!d.wp.receiveEmbedMessage)if(d.wp.receiveEmbedMessage=function(e){var t=e.data;if(t)if(t.secret||t.message||t.value)if(!/[^a-zA-Z0-9]/.test(t.secret)){var r,a,i,s,n,o=l.querySelectorAll('iframe[data-secret="'+t.secret+'"]'),c=l.querySelectorAll('blockquote[data-secret="'+t.secret+'"]');for(r=0;r<c.length;r++)c[r].style.display="none";for(r=0;r<o.length;r++)if(a=o[r],e.source===a.contentWindow){if(a.removeAttribute("style"),"height"===t.message){if(1e3<(i=parseInt(t.value,10)))i=1e3;else if(~~i<200)i=200;a.height=i}if("link"===t.message)if(s=l.createElement("a"),n=l.createElement("a"),s.href=a.getAttribute("src"),n.href=t.value,n.host===s.host)if(l.activeElement===a)d.top.location.href=t.value}}},e)d.addEventListener("message",d.wp.receiveEmbedMessage,!1),l.addEventListener("DOMContentLoaded",t,!1),d.addEventListener("load",t,!1);function t(){if(!o){o=!0;var e,t,r,a,i=-1!==navigator.appVersion.indexOf("MSIE 10"),s=!!navigator.userAgent.match(/Trident.*rv:11\./),n=l.querySelectorAll("iframe.wp-embedded-content");for(t=0;t<n.length;t++){if(!(r=n[t]).getAttribute("data-secret"))a=Math.random().toString(36).substr(2,10),r.src+="#?secret="+a,r.setAttribute("data-secret",a);if(i||s)(e=r.cloneNode(!0)).removeAttribute("security"),r.parentNode.replaceChild(e,r)}}}}(window,document);
-
-//--><!]]>
 
 [https://hackandcraft.com/insights/articles/flow-vs-agile-battle-consistent-innovation-method/](https://hackandcraft.com/insights/articles/flow-vs-agile-battle-consistent-innovation-method/)
 

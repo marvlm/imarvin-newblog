@@ -11,11 +11,11 @@ summary: 'El Appreciative Inquiry Coaching es una forma de ver el cambio organiz
 
 ![appreciative-inquiry-coaching-banner](https://images.unsplash.com/photo-1556711905-b3f402e1ff80?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
-El mes pasado durante el reto [#30díasdeblog](/tag/30diasdeblog/), específicamente el día 2, comenté sobre lo [diferente y productivo que fue mi mes de mayo](/mayo-diferente/). Dentro de lo que compartí en aquel artículo, comenté sobre algunos objetivos que me tracé entre los que estaba "*H*acer crecer mi conocimiento en temas que promuevan la mejora de mi rol como Scrum Master, tales como Mentoring y Coaching*"*.\*\*
+El mes pasado durante el reto [#30díasdeblog](/tag/30diasdeblog/), específicamente el día 2, comenté sobre lo [diferente y productivo que fue mi mes de mayo](/mayo-diferente/). Dentro de lo que compartí en aquel artículo, comenté sobre algunos objetivos que me tracé entre los que estaba "_Hacer crecer mi conocimiento en temas que promuevan la mejora de mi rol como Scrum Master, tales como Mentoring y Coaching_".
 
 Para poder cumplir ese objetivo, he estado leyendo, estudiando y tomando algunos cursos en Udemy con la intención de aprender nuevas técnicas y herramientas que me ayuden a aprender más sobre el Coaching.
 
-En este artículo, quiero compartir sobre Appreciative Inquiry Coaching, un enfoque de coaching que conocí en el curso [_How to be a Great Coach_](https://www.udemy.com/course/culture-how-to-be-a-great-coach/)*, *que me llamó mucho la atención y que al intentar profundizar en él, casi que no encontré documentación en español, así que hago esto también como una contribución a la comunidad hispanohablante y para quienes se sienten más cómodos con el español.
+En este artículo, quiero compartir sobre Appreciative Inquiry Coaching, un enfoque de coaching que conocí en el curso [_How to be a Great Coach_](https://www.udemy.com/course/culture-how-to-be-a-great-coach/), que me llamó mucho la atención y que al intentar profundizar en él, casi que no encontré documentación en español, así que hago esto también como una contribución a la comunidad hispanohablante y para quienes se sienten más cómodos con el español.
 
 ## Appreciative Inquiry - AI Coaching
 
@@ -103,13 +103,6 @@ Si deseas empezar a practicar el AI Coaching, te dejo aquí seis preguntas gené
 Puedes encontrar más información sobre este enfoque en su página web oficial, yo por mi parte intentaré indagar más en el tema e ir compartiendo en otros artículos más información al respecto en español.
 
 > [Principles of Appreciative Inquiry](https://www.centerforappreciativeinquiry.net/more-on-ai/principles-of-appreciative-inquiry/)
-
-<!--//--><![CDATA[//><!--
-
-    	/*! This file is auto-generated */
-    	!function(d,l){"use strict";var e=!1,o=!1;if(l.querySelector)if(d.addEventListener)e=!0;if(d.wp=d.wp||{},!d.wp.receiveEmbedMessage)if(d.wp.receiveEmbedMessage=function(e){var t=e.data;if(t)if(t.secret||t.message||t.value)if(!/[^a-zA-Z0-9]/.test(t.secret)){var r,a,i,s,n,o=l.querySelectorAll('iframe[data-secret="'+t.secret+'"]'),c=l.querySelectorAll('blockquote[data-secret="'+t.secret+'"]');for(r=0;r<c.length;r++)c[r].style.display="none";for(r=0;r<o.length;r++)if(a=o[r],e.source===a.contentWindow){if(a.removeAttribute("style"),"height"===t.message){if(1e3<(i=parseInt(t.value,10)))i=1e3;else if(~~i<200)i=200;a.height=i}if("link"===t.message)if(s=l.createElement("a"),n=l.createElement("a"),s.href=a.getAttribute("src"),n.href=t.value,n.host===s.host)if(l.activeElement===a)d.top.location.href=t.value}}},e)d.addEventListener("message",d.wp.receiveEmbedMessage,!1),l.addEventListener("DOMContentLoaded",t,!1),d.addEventListener("load",t,!1);function t(){if(!o){o=!0;var e,t,r,a,i=-1!==navigator.appVersion.indexOf("MSIE 10"),s=!!navigator.userAgent.match(/Trident.*rv:11\./),n=l.querySelectorAll("iframe.wp-embedded-content");for(t=0;t<n.length;t++){if(!(r=n[t]).getAttribute("data-secret"))a=Math.random().toString(36).substr(2,10),r.src+="#?secret="+a,r.setAttribute("data-secret",a);if(i||s)(e=r.cloneNode(!0)).removeAttribute("security"),r.parentNode.replaceChild(e,r)}}}}(window,document);
-
-//--><!]]>
 
 Adicional, les comparto un pequeño video explicativo (en inglés) sobre Appreciative Inquiry.
 
