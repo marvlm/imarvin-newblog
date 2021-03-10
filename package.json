@@ -1,9 +1,9 @@
 {
-  "name": "tailwind-nextjs-starter-blog",
+  "name": "imarvin-blog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "next dev",
+    "start": "next start",
     "dev": "next dev",
     "build": "next build && node ./scripts/generate-sitemap",
     "serve": "next start",
