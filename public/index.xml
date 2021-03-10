@@ -7,9 +7,189 @@
       <language>en-us</language>
       <managingEditor>marvin@thebranch.work (Marvin López)</managingEditor>
       <webMaster>marvin@thebranch.work (Marvin López)</webMaster>
-      <lastBuildDate>Fri, 19 Jun 2020 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Mon, 10 Aug 2020 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.imarv.in//index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.imarv.in//blog/2020-08-10-tipos-de-lenguajes-de-programacion</guid>
+    <title>Tipos de lenguajes de programación</title>
+    <link>https://www.imarv.in//blog/2020-08-10-tipos-de-lenguajes-de-programacion</link>
+    <description>Te explico los tipos de lenguajes de programación que existen, su evolución y las diferentes generaciones que han ido surgiendo a lo largo de los años.</description>
+    <pubDate>Mon, 10 Aug 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Tech</category><category>Colaboraciones</category><category>OpenWebinars</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-08-05-equipo-ideal</guid>
+    <title>El equipo ideal</title>
+    <link>https://www.imarv.in//blog/2020-08-05-equipo-ideal</link>
+    <description>Independientemente de los resultados, entendemos y estamos convencidos que en todo momento cada uno hace el mejor trabajo que él o ella puede hacer, dado lo que sabe en el momento, las habilidades, capacidades y recursos que tiene disponibles y la situación y contexto en el que se encuentra.</description>
+    <pubDate>Wed, 05 Aug 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Coaching</category><category>Reflexión</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-08-03-dsdm-secreto-mejor-guardado</guid>
+    <title>DSDM, el secreto mejor guardado de la agilidad</title>
+    <link>https://www.imarv.in//blog/2020-08-03-dsdm-secreto-mejor-guardado</link>
+    <description>DSDM, a pesar de no ser tan popular como Scrum, Kanban o XP, ha existido y ha sido aplicado por muchas organizaciones durante más de veinte años.</description>
+    <pubDate>Sun, 02 Aug 2020 22:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-07-24-appreciative-inquiry-coaching</guid>
+    <title>Appreciative Inquiry, coaching con un enfoque en lo positivo</title>
+    <link>https://www.imarv.in//blog/2020-07-24-appreciative-inquiry-coaching</link>
+    <description>El Appreciative Inquiry Coaching es una forma de ver el cambio organizacional enfocado en identificar y hacer más de lo que ya funciona, en vez de solamente ver los problemas y buscar soluciones.</description>
+    <pubDate>Fri, 24 Jul 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Coaching</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-07-22-manifiesto-artesania-del-software</guid>
+    <title>El Manifiesto de la artesanía del software</title>
+    <link>https://www.imarv.in//blog/2020-07-22-manifiesto-artesania-del-software</link>
+    <description>Agile está demasiado metido en el proceso y no en el oficio de la programación en sí misma - Paul Pagel</description>
+    <pubDate>Wed, 22 Jul 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category><category>Tech</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-07-17-lenguaje-de-programacion</guid>
+    <title>¿Qué es un lenguaje de programación?</title>
+    <link>https://www.imarv.in//blog/2020-07-17-lenguaje-de-programacion</link>
+    <description>¿Quieres saber más sobre los lenguajes de programación? En este artículo te explico qué es y para qué sirve un lenguaje de programación.</description>
+    <pubDate>Fri, 17 Jul 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Tech</category><category>Colaboraciones</category><category>OpenWebinars</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-07-05-multi-speed-it</guid>
+    <title>Agilidad en las organizaciones con el enfoque Multi-speed IT</title>
+    <link>https://www.imarv.in//blog/2020-07-05-multi-speed-it</link>
+    <description>Un enfoque de organización del área de IT, específicamente con los equipos involucrados en el desarrollo de aplicaciones, otro nombre rimbombante que describe más de lo mismo que ya conocemos de la agilidad.</description>
+    <pubDate>Sun, 05 Jul 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-30-reflexion-30diasdeblog</guid>
+    <title>Reflexión: #30diasdeblog</title>
+    <link>https://www.imarv.in//blog/2020-06-30-reflexion-30diasdeblog</link>
+    <description>Hace 30 días me reté a mi mismo a escribir un artículo por día en este mes de Junio y aquí estamos, en el dia más esperado, el día 30.</description>
+    <pubDate>Tue, 30 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Reflexión</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-29-cuando-acerca-final</guid>
+    <title>Cuando se acerca el final de...</title>
+    <link>https://www.imarv.in//blog/2020-06-29-cuando-acerca-final</link>
+    <description>... una era, un período en tu vida, un trabajo, una experiencia, un reto o cualquiera que sea la situación.</description>
+    <pubDate>Mon, 29 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Personal</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-28-intro-jamstack</guid>
+    <title>Una introducción sobre Jamstack</title>
+    <link>https://www.imarv.in//blog/2020-06-28-intro-jamstack</link>
+    <description>Jamstack combina filosofías de desarrollo modernas inspiradas en devops con páginas HTML estáticas de la vieja escuela para permitir a los desarrolladores crear sitios web rápidos más rápido.</description>
+    <pubDate>Sun, 28 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Tech</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-27-paradigma-open-space-2019</guid>
+    <title>Paradigma Open Space 2019</title>
+    <link>https://www.imarv.in//blog/2020-06-27-paradigma-open-space-2019</link>
+    <description>Un Open Space, es un evento tipo conferencia, pero que no tiene una agenda creada, a diferencia de los eventos de conferencia tradicionales donde se conoce los ponentes y la agenda con antelación.</description>
+    <pubDate>Sat, 27 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Experiencias</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-26-matrimonio-agil-trabajo-equipo</guid>
+    <title>Un Matrimonio Ágil requiere trabajo en equipo</title>
+    <link>https://www.imarv.in//blog/2020-06-26-matrimonio-agil-trabajo-equipo</link>
+    <description>Trabajar como equipo en el matrimonio ágil implica esfuerzo y compromiso de ambos, esposo y esposa, confianza y compartir la misma visión.</description>
+    <pubDate>Fri, 26 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Matrimonios Ágiles</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-25-obeya</guid>
+    <title>Construyendo una Obeya</title>
+    <link>https://www.imarv.in//blog/2020-06-25-obeya</link>
+    <description>El objetivo de una Obeya, es sacar a los empleados de sus oficinas, sus cubículos y puestos de trabajo, para llevarlos a una ubicación central donde puedan discutir temas claves que les permitan cumplir los objetivos de negocio.</description>
+    <pubDate>Thu, 25 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>#tbt</category><category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-24-flow-framework</guid>
+    <title>Flow, ¿otro framework Ágil o no?</title>
+    <link>https://www.imarv.in//blog/2020-06-24-flow-framework</link>
+    <description>Flow, un marco de trabajo ágil minimalista que trata de llevar la agilidad (Agile) y todos los diferentes elementos y formas en que los equipos trabajan al negocio, ejecutivos y clientes.</description>
+    <pubDate>Wed, 24 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-23-cultura-ideal</guid>
+    <title>La cultura ideal</title>
+    <link>https://www.imarv.in//blog/2020-06-23-cultura-ideal</link>
+    <description>La cultura de una organización influye en todas las personas y los equipos que la conforman; cultura que a su vez contribuye a la cultura de la organización.</description>
+    <pubDate>Tue, 23 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Reflexión</category><category>T-share</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-22-hobby-diferente</guid>
+    <title>Un hobby diferente: diseño y desarrollo web</title>
+    <link>https://www.imarv.in//blog/2020-06-22-hobby-diferente</link>
+    <description>El diseño y desarrollo web es una actividad que consiste en la planificación, diseño, implementación y mantenimiento de sitios web.</description>
+    <pubDate>Mon, 22 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Personal</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-21-reveal-js</guid>
+    <title>Creando un sitio web tipo presentación con reveal.js</title>
+    <link>https://www.imarv.in//blog/2020-06-21-reveal-js</link>
+    <description>reveal.js, es un framework open source para crear presentaciones en formato HTML. Es una herramienta que permite a cualquiera con conocimientos de HTML y CSS crear presentaciones originales.</description>
+    <pubDate>Sun, 21 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Tech</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-06-20-doit-kanban-style</guid>
+    <title>Do it Kanban style</title>
+    <link>https://www.imarv.in//blog/2020-06-20-doit-kanban-style</link>
+    <description>Kanban se basa en la verdad fundamental de que No puedes ir a donde quieres si no sabes o conoces primero dónde estás.!</description>
+    <pubDate>Sat, 20 Jun 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>#30díasdeblog</category><category>Experiencias</category>
+  </item>
+
   <item>
     <guid>https://www.imarv.in//blog/2020-06-19-principios-matrimonio-agil</guid>
     <title>Principios de un matrimonio ágil</title>

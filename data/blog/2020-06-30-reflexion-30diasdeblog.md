@@ -9,7 +9,7 @@ image: 'https://images.unsplash.com/photo-1485827031228-b1736cb1fd06?ixlib=rb-1.
 summary: 'Hace 30 días me reté a mi mismo a escribir un artículo por día en este mes de Junio y aquí estamos, en el dia más esperado, el día 30.'
 ---
 
-![intro-jamstack-banner](https://images.unsplash.com/photo-1485827031228-b1736cb1fd06?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
+![reflexion-30diasdeblog-banner](https://images.unsplash.com/photo-1485827031228-b1736cb1fd06?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=2000&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 
 Finalmente llegó el día 30 del reto [#30diasdeblog](/tag/30diasdeblog/)🥂.
 
