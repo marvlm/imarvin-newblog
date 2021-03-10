@@ -7,9 +7,119 @@
       <language>en-us</language>
       <managingEditor>marvin@thebranch.work (Marvin López)</managingEditor>
       <webMaster>marvin@thebranch.work (Marvin López)</webMaster>
-      <lastBuildDate>Mon, 24 Aug 2020 00:00:00 GMT</lastBuildDate>
+      <lastBuildDate>Wed, 27 Jan 2021 00:00:00 GMT</lastBuildDate>
       <atom:link href="https://www.imarv.in//index.xml" rel="self" type="application/rss+xml"/>
       
+  <item>
+    <guid>https://www.imarv.in//blog/2021-01-27-gist-framework</guid>
+    <title>GIST Framework, olvídate de los roadmaps y diagramas de Gantt</title>
+    <link>https://www.imarv.in//blog/2021-01-27-gist-framework</link>
+    <description>GIST es un framework para la planificación de productos basado en Lean Startup, Agile y Growth Marketing, entre otras técnicas.</description>
+    <pubDate>Wed, 27 Jan 2021 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category><category>Innovación</category><category>Producto</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-12-18-feliz-retrospectiva-navidena</guid>
+    <title>Te deseo una #FelizRetrospectivaNavideña y un próspero y mejor año #2021</title>
+    <link>https://www.imarv.in//blog/2020-12-18-feliz-retrospectiva-navidena</link>
+    <description>Ayer tuve la oportunidad de facilitar la última retrospectiva del año 2020 con mi equipo de trabajo y para aprovechar el contexto en el que estamos, decidí hacer una retrospectiva con temática de navidad y fin de año.</description>
+    <pubDate>Fri, 18 Dec 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Scrum</category><category>Retrospectiva</category><category>Dinámica</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-12-09-scrum-guide-2020-upgrade</guid>
+    <title>Lean Coffee: Scrum Guide 2020 Upgrade</title>
+    <link>https://www.imarv.in//blog/2020-12-09-scrum-guide-2020-upgrade</link>
+    <description>Scrum sigue siendo Scrum, sus bases en el empirismo, valores y principios se mantienen iguales. Lo nuevo no es tan nuevo y no tienes que cambiar lo que haces inmediatamente.</description>
+    <pubDate>Wed, 09 Dec 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Scrum</category><category>Agile</category><category>Agile Clinic</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-11-06-a-retrospective-far-far-away</guid>
+    <title>A retrospective far far away.... 🚀</title>
+    <link>https://www.imarv.in//blog/2020-11-06-a-retrospective-far-far-away</link>
+    <description>Hagamos un viaje juntos por la galaxia del trabajo en equipo y la mejora continua.</description>
+    <pubDate>Fri, 06 Nov 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category><category>Retrospectiva</category><category>Scrum</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-10-30-el-muro-de-la-confusion</guid>
+    <title>El muro de la confusión</title>
+    <link>https://www.imarv.in//blog/2020-10-30-el-muro-de-la-confusion</link>
+    <description>Metáfora que nos explica los problemas de comunicación que viven las organizaciones que mantienen una estructura basada en silos.</description>
+    <pubDate>Fri, 30 Oct 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>DevOps</category><category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-10-13-descubriendo-la-agilidad-agnostica</guid>
+    <title>Descubriendo la Agilidad Agnóstica</title>
+    <link>https://www.imarv.in//blog/2020-10-13-descubriendo-la-agilidad-agnostica</link>
+    <description>No a todos le queda la misma talla, de la misma forma que un sólo framework no es la respuesta, el ‘qué’ y el ‘cómo’ deben ser adecuados según el contexto de cada cliente...</description>
+    <pubDate>Tue, 13 Oct 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category><category>Experiencias</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-10-05-memcached-vs-redis</guid>
+    <title>Memcached vs Redis</title>
+    <link>https://www.imarv.in//blog/2020-10-05-memcached-vs-redis</link>
+    <description>Cuando es necesario mejorar el rendimiento en una aplicación web, el almacenamiento en caché (Caching) suele ser lo primero que pensamos que nos puede ayudar y Memcached o Redis las primeras opciones a evaluar.</description>
+    <pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>OpenWebinars</category><category>Colaboraciones</category><category>Tech</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-09-21-extreme-programming-que-es-y-como-aplicarlo</guid>
+    <title>Extreme Programming: ¿Qué es y cómo aplicarlo?</title>
+    <link>https://www.imarv.in//blog/2020-09-21-extreme-programming-que-es-y-como-aplicarlo</link>
+    <description>XP es un marco de desarrollo que persigue el feedback continuo, la excelencia técnica y la entrega de valor constante.</description>
+    <pubDate>Mon, 21 Sep 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Colaboraciones</category><category>OpenWebinars</category><category>Agile</category><category>Tech</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-09-17-cual-es-la-actitud-de-tu-equipo-cuando-empieza-una-retrospectiva</guid>
+    <title>¿Cuál es la actitud de tu equipo cuando empieza una Retrospectiva?</title>
+    <link>https://www.imarv.in//blog/2020-09-17-cual-es-la-actitud-de-tu-equipo-cuando-empieza-una-retrospectiva</link>
+    <description>Analicemos los factores que pueden estar provocando un silencio extremo y baja participación en la sesión de retrospectiva.</description>
+    <pubDate>Thu, 17 Sep 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Scrum</category><category>Retrospectiva</category><category>Agile</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-09-08-playlist-del-equipo</guid>
+    <title>Playlist del Equipo: Generar confianza a través de la música</title>
+    <link>https://www.imarv.in//blog/2020-09-08-playlist-del-equipo</link>
+    <description>Compartir canciones es una gran herramienta de trabajo en equipo. La música fomenta las interacciones grupales; la música trae buenos recuerdos y hace que la gente hable de algo más allá de las actividades laborales.</description>
+    <pubDate>Tue, 08 Sep 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category><category>Scrum</category>
+  </item>
+
+  <item>
+    <guid>https://www.imarv.in//blog/2020-09-07-la-teoria-u</guid>
+    <title>La Teoría U: El cambio visto desde un futuro emergente</title>
+    <link>https://www.imarv.in//blog/2020-09-07-la-teoria-u</link>
+    <description>La teoría U se usa no solo en coaching, en consultoría organizacional y en team building, sino también a nivel individual.</description>
+    <pubDate>Mon, 07 Sep 2020 00:00:00 GMT</pubDate>
+    <author>marvin@thebranch.work (Marvin López)</author>
+    <category>Agile</category><category>Coaching</category>
+  </item>
+
   <item>
     <guid>https://www.imarv.in//blog/2020-08-24-el-poder-de-la-inteligencia-colectiva</guid>
     <title>El poder de la Inteligencia Colectiva</title>
@@ -18,16 +128,6 @@
     <pubDate>Mon, 24 Aug 2020 00:00:00 GMT</pubDate>
     <author>marvin@thebranch.work (Marvin López)</author>
     <category>Coaching</category><category>Agile</category><category>Agile Clinic</category>
-  </item>
-
-  <item>
-    <guid>https://www.imarv.in//blog/2020-08-18-agile-clinic</guid>
-    <title>Agile Clinic: Estimado Marvin, tengo una duda sobre la agilidad...</title>
-    <link>https://www.imarv.in//blog/2020-08-18-agile-clinic</link>
-    <description>Agile Clinic es un formato frecuente en algunas conferencias sobre agilidad. Consiste en sesiones de coaching/mentoring de corta duración, ya sea individuales o en grupo, en las que un experto en Agilidad ofrece su experiencia y conocimiento para un caso particular.</description>
-    <pubDate>Tue, 18 Aug 2020 00:00:00 GMT</pubDate>
-    <author>marvin@thebranch.work (Marvin López)</author>
-    <category>Agile</category><category>Coaching</category>
   </item>
 
   <item>
